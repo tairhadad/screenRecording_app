@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">ScreenRecording</string>
+    <string name="StartRecordingText">התחל הקלטה:</string>
+    <string name="todo02">TODO</string>
+    <string name="todo03">TODO</string>
+    <string name="record">Record</string>
+    <string name="stop" >Stop </string>
+    <string name="todo">TODO</string>
+    <string name="show_uploads">Show Uploads</string>
+    <string name="upload">Upload</string>
+
+
+</resources>
